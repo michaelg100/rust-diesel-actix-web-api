@@ -3,6 +3,3 @@ diesel migration generate <table>
 diesel migration run
 
 diesel migration redo
-
-
-https://github.com/Me163/youtube/tree/main/Rustflix/src
